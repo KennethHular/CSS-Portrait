@@ -19,7 +19,7 @@ p{
     font-size: 15px;
     line-height: 10px;
     font-weight: normal;
-    background: url(me.png);
+    background: url(me.png);/*Change file of your picture*/
     text-align: justify;
     background-size: 700px, 700px;
     background-repeat: no-repeat;
